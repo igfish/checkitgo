@@ -1,0 +1,2 @@
+# checkitgo
+Something about go
