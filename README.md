@@ -1,2 +1,1 @@
-# checkitgo
-Something about go
+# Implement data structures with golang generics
